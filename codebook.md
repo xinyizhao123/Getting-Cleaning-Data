@@ -2,6 +2,8 @@
 
 The tidy dataset (tidy_data.txt) includes 68 variables. The raw data was extracted from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
+
+
 The tidy data was created through the following process on the raw datasets:
 
 1) Merges the training and the test data into one dataset.
@@ -13,6 +15,8 @@ The tidy data was created through the following process on the raw datasets:
 4) Appropriately labels the data set with descriptive variable names. 
 
 5) Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
 
 
 Below is the description of the variables in the tidy dataset:
