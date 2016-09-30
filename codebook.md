@@ -5,19 +5,23 @@ The tidy dataset (tidy_data.txt) includes 68 variables. The raw data was extract
 Below is the description of the variables in the tidy dataset.
 
 #### subject.id
-#####
-##### Definition: Unique identifiers for subjects. 
-##### Class: Numeric
-##### Value: integers 1 - 30.
-#####
-#####
+
+Definition: Unique identifiers for subjects
+
+Class: Numeric
+
+Value: integers 1 - 30.
+
+
 #### activity.name
-#####
-##### Definition: Name of activities. 
-##### Class: Character
-##### Value: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS"
-#####
-#####
+
+Definition: Name of activities.
+
+Class: Character
+
+Value: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS"
+
+
 #### tBodyAcc-mean()-X
 #### tBodyAcc-mean()-Y
 #### tBodyAcc-mean()-Z
@@ -37,7 +41,9 @@ Below is the description of the variables in the tidy dataset.
 #### fBodyBodyGyroMag-std()
 #### fBodyBodyGyroJerkMag-mean()
 #### fBodyBodyGyroJerkMag-std()
-#####
-##### Definition: Measurements of activities on mean or standard deviations
-##### Class: Numeric
-##### Value: continuous numbers
+
+Definition: Measurements of activities on mean or standard deviations
+
+Class: Numeric
+
+Value: continuous numbers
