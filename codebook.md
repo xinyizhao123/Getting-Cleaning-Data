@@ -6,6 +6,7 @@ Below is the description of the variables in the tidy dataset.
 
 #### subject.id
 
+
 Definition: Unique identifiers for subjects
 
 Class: Numeric
@@ -13,13 +14,16 @@ Class: Numeric
 Value: integers 1 - 30.
 
 
+
 #### activity.name
+
 
 Definition: Name of activities.
 
 Class: Character
 
 Value: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS"
+
 
 
 #### tBodyAcc-mean()-X
@@ -41,6 +45,7 @@ Value: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKIN
 #### fBodyBodyGyroMag-std()
 #### fBodyBodyGyroJerkMag-mean()
 #### fBodyBodyGyroJerkMag-std()
+
 
 Definition: Measurements of activities on mean or standard deviations
 
