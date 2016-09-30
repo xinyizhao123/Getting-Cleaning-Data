@@ -4,7 +4,7 @@ This is the project for the course "Getting and Cleaning Data" of the Data Scien
 
 #### 1 tidy_data.txt
 
--- The tidy dataset of the project
+-- The tidy dataset of the project.
 
 #### 2 run_analysis.R
 
